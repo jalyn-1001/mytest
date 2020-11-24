@@ -30,7 +30,7 @@
 
 6. 使用git bash将代码提交到github并发Pull Request
 ## 四、 实验结果
-![实验结果](D:\shiyan1.png)
+![实验结果](https://github.com/jalyn-1001/mytest/blob/master/sec1814080911239/shiyan1.png)
 
 ## 五、 实验心得体会
 
